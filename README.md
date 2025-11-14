@@ -47,8 +47,8 @@ I enjoy solving real-world problems through clean architecture, structured APIs,
 
 ## 🌟 Featured Projects  
 - ⏳ Gin API System  
-- 📁 Laravel
-- 📦 NestJS Backend for Kingdom Of Glory App/Website
+- 📁 Laravel API for GKMI Anugerah Website (https://gkmi-anugerah.org)
+- 📦 NestJS Backend for Kingdom Of Glory App/Website (https://kingdomofglory.church)
 - 🖥 Python Cashier Application (desktop app)  
 - 🤖 Python Object Detection Mini Project  
 

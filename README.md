@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Giovanni Jose Ricardo
 
-<!--
-**epicfame/epicfame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer passionate about building scalable, secure, and efficient systems.  
+I enjoy solving real-world problems through clean architecture, structured APIs, and solid database design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Skills
+
+### 🖥 Backend Development
+- **Laravel / PHP** ✅ (REST API, Middleware, Queues, Migrations, Carbon)
+- **NestJS / Node.js** ✅ (JWT Auth, ValidationPipe, DTO Patterns, Express)
+- Golang (Gin Framework) ⚡ (learning)
+- Python ⚡ (small projects: desktop apps, object detection experiments)
+
+### 🌐 Frontend Development
+- **Next.js** ⚡ (understand core concepts, bug fixing, small feature development)
+- DataTables, Bootstrap, jQuery integrations
+
+### 🛢 Database
+- **MySQL** ✅ (XAMPP, migrations, relationships)
+- PostgreSQL ⚡ (learning / exploring)
+- Supabase ✅ (syncing, edge functions)
+
+### 📦 DevOps & Tools
+- Docker & Docker Compose ✅
+- Nginx / Reverse Proxy ✅
+- Git / GitHub ✅
+- Postman for API testing ✅
+
+### 🧰 Other Skills
+- File upload handling (NestJS, Laravel)
+- JWT Authentication (multi-service)
+- Query optimization
+- Queue
+
+---
+
+## 📌 Current Interests
+- Building clean and efficient RESTful APIs  
+- Improving performance using **Octane / FrankenPHP / Nginx**  
+- Automating deployment with CI/CD  
+- Structuring scalable backend systems  
+- Exploring Python for desktop applications and AI experiments  
+
+---
+
+## 🌟 Featured Projects  
+*(Add GitHub repo links when available)*  
+- ⏳ Gin API System  
+- 📁 Laravel
+- 📦 NestJS Backend for Kingdom Of Glory App/Website
+- 🖥 Python Cashier Application (desktop app)  
+- 🤖 Python Object Detection Mini Project  
+
+---
+
+## 📫 Reach Me
+- GitHub: [github.com/epicfame](https://github.com/epicfame)  
+- Email: giovanni.jricardo@gmail.com 
+
+---
+
+## 💡 Fun Fact
+I break things a lot — but I fix them even faster 😄

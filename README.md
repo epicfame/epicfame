@@ -46,7 +46,6 @@ I enjoy solving real-world problems through clean architecture, structured APIs,
 ---
 
 ## 🌟 Featured Projects  
-*(Add GitHub repo links when available)*  
 - ⏳ Gin API System  
 - 📁 Laravel
 - 📦 NestJS Backend for Kingdom Of Glory App/Website

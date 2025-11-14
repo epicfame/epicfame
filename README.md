@@ -54,6 +54,12 @@ I enjoy solving real-world problems through clean architecture, structured APIs,
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicfame&layout=compact)
+
+---
+
 ## 📫 Reach Me
 - GitHub: [github.com/epicfame](https://github.com/epicfame)  
 - Email: giovanni.jricardo@gmail.com 
